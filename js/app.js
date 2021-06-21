@@ -1,0 +1,12 @@
+let userName = prompt('what is your name?');
+alert('hi '+ userName);
+console.log('user name is '+userName);
+let userAge = prompt('How old are you?');
+alert('so you are '+ userAge + ' years old');
+console.log('user age is '+userAge);
+let userEdu = prompt('what is your major');
+alert(userEdu + ' interesting major');
+console.log('user major is '+userEdu);
+let userB = prompt('Do you like programming');
+alert(' hope you enjoy our website !');
+console.log(userB+' he like programming');
